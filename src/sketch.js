@@ -32,7 +32,7 @@ function setup() {
   isGameOver = false;
   startFlag = false;
   direction = "right";
-  frameRate(20);
+  frameRate(6);
   fill(255);
 }
 
